@@ -1,6 +1,6 @@
 # Energy landscape scripts
 
-### Dependecies
+### Dependencies
 
 Matlab > 2016 is required to run this code.
 
